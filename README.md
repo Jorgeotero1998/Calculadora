@@ -1,12 +1,12 @@
-# Calculadora Científica Master ??
+# Calculadora
 
-Interfaz minimalista en Python con soporte científico completo y teclado.
+Interfaz minimalista en Python con soporte cientÃ­fico completo y teclado.
 
-## ?? Funciones
+## Funciones
 - Modo DEG/RAD
 - Historial en tiempo real
-- Diseño Slate Dark
-- Teclado físico habilitado
+- DiseÃ±o Slate Dark
+- Teclado fÃ­sico habilitado
 
-## ?? Autor
+## Autor
 Jorge Otero - [Jorgeotero1998](https://github.com/Jorgeotero1998)
