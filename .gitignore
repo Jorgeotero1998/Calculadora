@@ -1,0 +1,4 @@
+historial.txt
+__pycache__/
+*.pyc
+.vscode/
